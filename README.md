@@ -1,1 +1,1 @@
-# leela-trainer
+# Chess
